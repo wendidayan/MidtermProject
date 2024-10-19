@@ -247,4 +247,4 @@
         <div class="container">
     </div>
 </section>
-
+@endsection
